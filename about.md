@@ -4,9 +4,9 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi, I am Vishwesh Jainkuniya, sophomore of <a href="http://www.lnmiit.ac.in/">The LNM Institute of Information Technology Jaipur</a> pursuing B.Tech in Computer Science and Engineering. </p>
+<p>Hi, I am Vishwesh Jainkuniya, sophomore from <a href="http://www.lnmiit.ac.in/">The LNM Institute of Information Technology Jaipur</a> pursuing B.Tech in Computer Science and Engineering. </p>
 
-<p>For the past one and a half year, I am in the field of developing android apps. I love exploring stuff. My main focus is on creating apps that are delightful and enchant the users. Apps which reduces human efforts and helps in day to day life.</p>
+<p>For the past one and a half year, I have been exploring the world of android. I love trying new stuff. My main focus is on creating apps that are delightful and enchant the users. Apps which reduces human efforts and helps in day to day life.</p>
 
 <h2>Skills</h2>
 

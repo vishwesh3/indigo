@@ -2,7 +2,10 @@
 title: "College Plus - Android app"
 layout: post
 date: 2017-02-05 19:26
-tag: college-plus
+tag: 
+- college-plus
+- android
+- apps
 image: /assets/images/college-plus-logo.webp
 headerImage: true
 projects: true
@@ -26,9 +29,10 @@ An Android app that fit's for every college students. Keep track on all your upc
 ## Key Features 
 
 ### v1.1.0.4
-Works offline!
-Reminders for every event.
-Material Design and Lightweight.
+
+- Works offline!
+- Reminders for every event.
+- Material Design and Lightweight.
 
 ---
 
