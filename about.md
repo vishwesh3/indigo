@@ -25,6 +25,6 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">College Plus</a></li>
-	<li><a href="https://github.com/">Udhaar</a></li>
+	<li><a href="http://bit.ly/college-plus">College Plus</a></li>
+	<li><a href="http://bit.ly/udhaar-app">Udhaar</a></li>
 </ul>
