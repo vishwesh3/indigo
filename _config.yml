@@ -3,12 +3,12 @@ name: Vishwesh Jainkuniya
 bio: Learner|Exploler|Android Developer|Open Source Enthusiastic|Programmer
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: My personal corner
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/2017-02-09-17-44-10-227.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -39,12 +39,12 @@ disqus: jainkuniya
 >>>>>>> Configured _config.yml
 
 # if you don't have any of social below, comment the line
-facebook: Vishwesh-Jainkuniya
+facebook: jainkuniya
 twitter: jainkuniya
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: vishwesh-jainkuniya-954798b9
+linkedin: jainkuniya
 # youtube: myyoutube
 # spotify: myspotify
 # lastfm: mylastfm
@@ -52,24 +52,18 @@ github: vishwesh3
 stackoverflow: 5612089/vishwesh-jainkuniya
 # quora: userquora
 # reddit: username
-medium: vishwesh03071998
+medium: jainkuniya
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: jainkuniya@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    vishwesh:
+        name: Vishwesh Jainkuniya
+        bio: Learner
         external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        picture: assets/images/2017-02-09-17-44-10-227.jpg
+        twitter: jainkuniya
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -112,4 +106,4 @@ gems:
   - jemoji
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: https://github.com/vishwesh3

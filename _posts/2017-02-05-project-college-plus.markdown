@@ -16,8 +16,6 @@ author: vishwesh
 externalLink: false
 ---
 
-# College Plus
-
 <a href="http://bit.ly/college-plus" target="_blank">
   <img width="180" height="70" border="0" align="center"  src="/assets/images/play-store.png"/>
 </a>
