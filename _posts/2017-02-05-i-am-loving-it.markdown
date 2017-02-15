@@ -8,10 +8,11 @@ tag:
 - open-source
 blog: true
 star: true
+author: vishwesh
 description: My journey in the vast world of open source.
 ---
 
-I recently started contributing to open source. On the way till now, I have learned a lot from writing reusable code to collaborate with others on version controlling system(VCS).
+I recently started contributing to open source. On my way till now, I have learned a lot from writing reusable code to collaborating with others on version controlling system(VCS).
 
 **What are Open Source Softwares(OSS)?**
 
@@ -61,7 +62,7 @@ Nobody is perfect, everyone makes mistake. So, don't get disappointed and stop w
 - Have patience
 
 
-It's human behavior, when we achieve something big, we forget to do some necessary checks and take actions. In this context, when a critical bug is resolved, don't rush to make PR, test it properly, clean the code, write relevant comments, remove unnecessary Logcat used in the process of debugging. After checking all this, take a deep breath and hope for the good. Finally, commit with a descriptive commit message and submit a new PR.
+It's human behavior, when we achieve something big, we forget to do some necessary checks and take actions. In this context, when a critical bug is resolved, don't rush to make PR, test it properly, clean the code, write relevant comments, remove unnecessary Logcat used in the process of debugging. After checking all this, take a deep breath and hope for good. Finally, commit with a descriptive commit message and submit a new PR.
 
 - Include your approach in issues and PR
 
@@ -71,12 +72,12 @@ It helps mentors in reviewing PR, how the issue has been solved. Also, it is bet
 - Solving bugs
 
 
-No matters how difficult it is to solve a bug, solutions always exist. Start debugging, include break points and hit debug option. This will not only give you the value of a variable at any particular time instance but also will help you in understanding the event flow of the project. You can also print log in the console in order to get a better picture of what is going on. For some critical bugs, it takes some time to resolve them, so in between keep motivated and don't give up in your heart. Have faith in you. You can and you will do it.
+No matters how difficult it is to solve a bug, solutions always exist. Start debugging, include break points and hit debug option. This will not only give you the value of a variable at any particular time instance but also will help you in understanding the event flow of the project. You can also print log in the console in order to get a better picture of what is going on. For some critical bugs, it takes some time to resolve them, so in between stay motivated and don't give up in your heart. Have faith in you. You can and you will do it.
 
 - Don't run away from errors
 
 
-Usually, we are familiar with creating new projects and successfully deploying it. But we are not sure, when we clone a project and run it, if it will build without any error. For larger projects, you will definitely face some error. This is because the project may be using some libraries or modules which are not installed on your local machine. Dig into the error, search about them, ask help from mentors and try harder everytime.
+Usually, we are familiar with creating new projects and successfully deploying it. But we are not sure, when we clone a project and run it, whether it will build without any error. For larger projects, you will definitely face some error. This is because the project may be using some libraries or modules which are not installed on your local machine. Dig into the error, search about them, ask help from mentors and try harder everytime.
 
 This point played a major role in my journey. 70-80% of the cloned projects gave me errors while building. Carefully read the readme file of projects, you may get hints about what you are missing. Look for the error, try different solutions.   
 
@@ -90,7 +91,7 @@ Of course, GIT is a powerful tool for version controlling of the project. I was 
 
 Yeah! this community motivated me to share my experience and eventually today I am writing this Blog. It is well said that **"In any open source community, Teaching and Learning go side by side."**
 
-If you’ve ever tried to debug a frustrating problem within the codebase of a software, you will probably be Googling to find the answer. Google doesn’t know the answer, of course. It can only point you to web pages that others have created. That's where forums(like as [StackOverflow](http://stackoverflow.com/)) and blogs( like as [Android Authority](http://www.androidauthority.com/)) come into the picture.
+If you’ve ever tried to debug a frustrating problem within the codebase of a software, you will probably be Googling to find the answer. Google doesn’t know the answer, of course. It can only point you to web pages that others have created. That's where forums(like [StackOverflow](http://stackoverflow.com/)) and blogs( like [Android Authority](http://www.androidauthority.com/)) come into the picture.
 
 ### Concluding
 
