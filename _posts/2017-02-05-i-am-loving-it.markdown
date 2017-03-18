@@ -12,11 +12,11 @@ author: vishwesh
 description: My journey in the vast world of open source.
 ---
 
-I recently started contributing to open source. On my way till now, I have learned a lot from writing reusable code to collaborating with others on version controlling system(VCS).
+I recently started contributing to open source. On my way till now, I have learned a lot from writing reusable code to collaborating with others on version control system(VCS).
 
 **What are Open Source Softwares(OSS)?**
 
-Yeah! these are computer software, whose source code is made publicly available(like as on Github, Gitlab, cloud storages etc). A contributor can modify, enhance, optimize in order to make it more feasible. OSS may be lincensed. What a license does is, grant specific permissions for others to use that work.
+Yes, these are computer software, whose source code is made publicly available (like as on Github, Gitlab, cloud storage etc). A contributor can modify, enhance, optimize in order to make it more feasible. OSS may be licensed. What a license does is, grant specific permissions for others to use that work.
 
 **How to contribute to open source projects?**
 
@@ -41,11 +41,11 @@ There are many ways to contact mentors:-
 - via Google Groups/Slack/Gitter etc.
 
 
-**My journey throughout this world so far**
+**My journey throughout this world until now**
 
 Getting started with an open source project can be intimidating. I wanted to contribute to open source projects, but struggled with where to start.
 
-I started my journey exploring android projects on Github, found some bugs and made some pull requests(PR) for the latter. When my first PR got merged it gave me feeling of accomplishment. I was really motivated to enter the world of Open Source. 
+I started my journey exploring Android projects on Github, found some bugs and made some pull requests(PR) for the latter. When my first PR got merged it gave me feeling of accomplishment. I was really motivated to enter the world of Open Source. 
 
 Here's my experience
 
@@ -57,7 +57,7 @@ It is really important to understand existing code in order to solve a bug or en
 - Learn from mistakes
 
 
-Nobody is perfect, everyone makes mistake. So, don't get disappointed and stop working. Accept them, make a note and learn from it.
+Nobody is perfect. Everyone makes mistake. So, don't get disappointed and stop working. Accept them, make a note and learn from it.
 
 - Have patience
 
@@ -79,17 +79,17 @@ No matters how difficult it is to solve a bug, solutions always exist. Start deb
 
 Usually, we are familiar with creating new projects and successfully deploying it. But we are not sure, when we clone a project and run it, whether it will build without any error. For larger projects, you will definitely face some error. This is because the project may be using some libraries or modules which are not installed on your local machine. Dig into the error, search about them, ask help from mentors and try harder everytime.
 
-This point played a major role in my journey. 70-80% of the cloned projects gave me errors while building. Carefully read the readme file of projects, you may get hints about what you are missing. Look for the error, try different solutions.   
+This point played a major role in my journey. 70-80% of the cloned projects gave me errors while building. Carefully read the README file of projects. You may get hints about what you are missing. Look for the error, try different solutions.   
 
-- GIT 
+- Git 
 
 
-Of course, GIT is a powerful tool for version controlling of the project. I was really scared using it, but as my journey proceeded I become more and more familiar with it.
+Of course, Git is a powerful tool for version controlling of the project. I was really scared using it, but as my journey proceeded I become more and more familiar with it.
 
 - Share your experience and help others
 
 
-Yeah! this community motivated me to share my experience and eventually today I am writing this Blog. It is well said that **"In any open source community, Teaching and Learning go side by side."**
+Yes, this community motivated me to share my experience and eventually today I am writing this Blog. It is well said that **"In any open source community, Teaching and Learning go side by side."**
 
 If you’ve ever tried to debug a frustrating problem within the codebase of a software, you will probably be Googling to find the answer. Google doesn’t know the answer, of course. It can only point you to web pages that others have created. That's where forums(like [StackOverflow](http://stackoverflow.com/)) and blogs( like [Android Authority](http://www.androidauthority.com/)) come into the picture.
 
