@@ -19,14 +19,14 @@ description: Easily automate Captive Portal.
 
 I think almost everyone (LNMIITians) in familiar with this one. College is providing only one login per login portal, and this message appears when we try to login in another device. Many times we forget to log out when we move from LT area to hostels (or vice versa).  **Wimator** is a perfect solution for this problem.
 
-I have faced this problemmany time, I have to wait for 15-20 minutes ideally until portal is logged off automatically. Every second of this 15 minutes is felt like an hour. This gave me an idea why shouldn't I take this problem as an opportunity and develop an app which automatically logs off my portal as soon as device leave the network.
+I have faced this problem many time, I have to wait for 15-20 minutes ideally until portal is logged off automatically. Every second of this 15 minutes is felt like an hour. This gave me an idea why shouldn't I take this problem as an opportunity and develop an app which automatically logs off my portal as soon as device leave the network.
 
 ### Here are some cool amazing features of **Wimator**
 
 - Simple to use.
 
 
-Just install it from [play store](https://play.google.com/store/apps/details?id=com.jainkuniya.wimator), configure your Login Id & password. And all set to go.
+Just install it from <a href="https://play.google.com/store/apps/details?id=com.jainkuniya.wimator" target="_blank"> play store </a>, configure your Login Id & password. And all set to go.
 
 - Manage WiFi networks.
 
@@ -35,7 +35,7 @@ Easily manage networks for whom you want to enable **Auto Login** and **Override
 
 **Auto Login** :- Wimator will automatically log in if login is required in that WiFi network.
 
-**Override Login** :- Wimator will send Login request irrespective of login is required or not.
+**Override Login** :- Wimator will send Login request even when another user is logged in.
 
 <a href="https://play.google.com/store/apps/details?id=com.jainkuniya.wimator" target="_blank">
   <img  border="2" align="center"  src="/assets/images/wimator-manage-wifi.jpg"/>
@@ -50,8 +50,8 @@ Recent sessions include IP address assigned to your device when it is connected 
 
 IP might be helpful in case your phone switched off and Wimator does not get's chance to log off. You can easily set up static IP in other device and log out your portal. Get more info on static IP:- 
 
-1. [Ubuntu](https://help.ubuntu.com/lts/serverguide/network-configuration.html)
-2. [Windows](https://www.howtogeek.com/howto/19249/how-to-assign-a-static-ip-address-in-xp-vista-or-windows-7/) 
+1. <a href="https://help.ubuntu.com/lts/serverguide/network-configuration.html" target="_blank"> Ubuntu </a>
+2. <a href="https://www.howtogeek.com/howto/19249/how-to-assign-a-static-ip-address-in-xp-vista-or-windows-7/" target="_blank"> Windows </a> 
 
 - Login/Logout on finger tips
 
@@ -107,6 +107,7 @@ Whenever log in is performed from the mobile browser, log in button turns to log
 
 
 Hava a nice day;
+Feedback are welcomed.
 
 
 
