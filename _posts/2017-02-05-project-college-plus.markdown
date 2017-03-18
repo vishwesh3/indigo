@@ -26,6 +26,11 @@ An Android app that fit's for every college students. Keep track on all your upc
 
 ## Key Features 
 
+### v1.2.1.2
+
+- Auto refresh
+- Get notification when data get's updated
+
 ### v1.1.0.4
 
 - Works offline!
