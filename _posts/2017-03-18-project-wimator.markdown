@@ -28,6 +28,10 @@ Wimator is an easy solution for auto login/logout in Captive Portals. It will au
 
 ## Key Features 
 
+### v1.0.0.6
+
+- Reduced APK size (691 KB)
+
 ### v1.0.0.5
 
 - Auto login/logout.
