@@ -7,7 +7,7 @@ headerImage: true
 tag:
 - git
 - vcs
-blog: true
+category: blog
 star: true
 author: vishwesh
 description: Introduction to VCS.

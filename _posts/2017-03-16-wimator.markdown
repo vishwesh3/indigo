@@ -9,7 +9,7 @@ tag:
 - app
 - automate
 - wifi
-blog: true
+category: blog
 star: true
 author: vishwesh
 description: Easily automate Captive Portal.
@@ -48,15 +48,15 @@ Easily manage networks for whom you want to enable **Auto Login** and **Override
 </a>
 Recent sessions include IP address assigned to your device when it is connected to WiFi network. It also contain's starting time and end time of connection.
 
-IP might be helpful in case your phone switched off and Wimator does not get's chance to log off. You can easily set up static IP in other device and log out your portal. Get more info on static IP:- 
+IP might be helpful in case your phone switched off and Wimator does not get's chance to log off. You can easily set up static IP in other device and log out your portal. Get more info on static IP:-
 
 1. <a href="https://help.ubuntu.com/lts/serverguide/network-configuration.html" target="_blank"> Ubuntu </a>
-2. <a href="https://www.howtogeek.com/howto/19249/how-to-assign-a-static-ip-address-in-xp-vista-or-windows-7/" target="_blank"> Windows </a> 
+2. <a href="https://www.howtogeek.com/howto/19249/how-to-assign-a-static-ip-address-in-xp-vista-or-windows-7/" target="_blank"> Windows </a>
 
 - Login/Logout on finger tips
 
 
-Wimator has a cool widget that allows you to log in and log out with a single click. It also contains status, which shows your current status. 
+Wimator has a cool widget that allows you to log in and log out with a single click. It also contains status, which shows your current status.
 
 Status can be of:-
 
@@ -71,7 +71,7 @@ Status can be of:-
 5. sign in is required or not.
 6. shows server messages like incorrect credentials.
 
-- Notification 
+- Notification
 
 
 <a href="https://play.google.com/store/apps/details?id=com.jainkuniya.wimator" target="_blank">
@@ -108,8 +108,3 @@ Whenever log in is performed from the mobile browser, log in button turns to log
 
 Hava a nice day;
 Feedback are welcomed.
-
-
-
-
-

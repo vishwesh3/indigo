@@ -6,7 +6,7 @@ image: /assets/images/open-source.jpg
 headerImage: true
 tag:
 - open-source
-blog: true
+category: blog
 star: true
 author: vishwesh
 description: My journey in the vast world of open source.
@@ -28,7 +28,7 @@ You can find some opened issues in the repository of the projects.
 - Reporting a bug
 
 
-Bug/issue management is one of the easiest ways to contribute to an open source project but also is one of the most important parts of maintaining the project. I, myself, started contributing by reporting a bug. One can also start via enhancing feature. 
+Bug/issue management is one of the easiest ways to contribute to an open source project but also is one of the most important parts of maintaining the project. I, myself, started contributing by reporting a bug. One can also start via enhancing feature.
 
 **How to contact mentors?**
 
@@ -45,14 +45,14 @@ There are many ways to contact mentors:-
 
 Getting started with an open source project can be intimidating. I wanted to contribute to open source projects, but struggled with where to start.
 
-I started my journey exploring Android projects on Github, found some bugs and made some pull requests(PR) for the latter. When my first PR got merged it gave me feeling of accomplishment. I was really motivated to enter the world of Open Source. 
+I started my journey exploring Android projects on Github, found some bugs and made some pull requests(PR) for the latter. When my first PR got merged it gave me feeling of accomplishment. I was really motivated to enter the world of Open Source.
 
 Here's my experience
 
 - Improved my code understanding skills
 
 
-It is really important to understand existing code in order to solve a bug or enhance a feature. 
+It is really important to understand existing code in order to solve a bug or enhance a feature.
 
 - Learn from mistakes
 
@@ -81,7 +81,7 @@ Usually, we are familiar with creating new projects and successfully deploying i
 
 This point played a major role in my journey. 70-80% of the cloned projects gave me errors while building. Carefully read the README file of projects. You may get hints about what you are missing. Look for the error, try different solutions.   
 
-- Git 
+- Git
 
 
 Of course, Git is a powerful tool for version controlling of the project. I was really scared using it, but as my journey proceeded I become more and more familiar with it.
@@ -95,6 +95,6 @@ If you’ve ever tried to debug a frustrating problem within the codebase of a s
 
 ### Concluding
 
-Contributing to open source projects is not as scary as it may look. Dig a bit and you will definitely find projects which excite you. You can search "Open source projects for "\<your interest\>". 
+Contributing to open source projects is not as scary as it may look. Dig a bit and you will definitely find projects which excite you. You can search "Open source projects for "\<your interest\>".
 
 I hope this encourages you to find a project you're interested in and to be courageous enough to make that first commit.

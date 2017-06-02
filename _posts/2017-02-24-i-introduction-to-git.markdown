@@ -7,7 +7,7 @@ headerImage: true
 tag:
 - git
 - vcs
-blog: true
+category: blog
 star: true
 author: vishwesh
 description: Some basic commands of git to get statred.
@@ -18,10 +18,10 @@ Let's start with a simple question.
 **What is GIT?**
 
 
-Git is **version control system**. There are many VCS other than git eg: - CVS, SVN etc. Git 
+Git is **version control system**. There are many VCS other than git eg: - CVS, SVN etc. Git
 serve as the foundation of many services like Github, Gitlab etc, but it can also be used without any other services.
 
-If you have ever collaborated on any project with others, then you know how it becomes hard to copy paste both the copies(one of your's and other of your partner). You have added a new feature to project and deployed it and distributed source code to your team, one team member enhanced that one, in the meanwhile you fixed some bugs, now it becomes difficult to combine both the works. 
+If you have ever collaborated on any project with others, then you know how it becomes hard to copy paste both the copies(one of your's and other of your partner). You have added a new feature to project and deployed it and distributed source code to your team, one team member enhanced that one, in the meanwhile you fixed some bugs, now it becomes difficult to combine both the works.
 
 Git is an amazing tool to handle such situations;
 
@@ -38,7 +38,7 @@ Here are some commands to get started with git. (I am using Github as a GIT serv
 **How to fork a repo?**
 
 A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
- 
+
 Just click on **Fork** button on the repo and a copy will be created to your account.
 
 **How to clone repo?**
@@ -54,7 +54,7 @@ and then in your terminal run command
 
 `URL` consists of username of the account which have hosted repo and repo name
 
-eg:- `git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY` 
+eg:- `git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY`
 
 **How to make your first commit?**
 
@@ -112,7 +112,7 @@ You can get list of tracked repositories by
 
 `git remote`
 
-add a new repo in remote by 
+add a new repo in remote by
 
 `git remote add upstream https://github.com/url`
 
@@ -130,9 +130,9 @@ If there are merge conflicts then solve then and run
 
 `git add path/of/file/in/which/changes/are/done`
 
-Now complete rebase 
+Now complete rebase
 
-`git rebase --continue` 
+`git rebase --continue`
 
 Now forcefully push commits (as head is changed)
 
@@ -162,7 +162,7 @@ you can see the list of all the commits committed after entered hashcode.
 
 replace `pick` with `squash` for all those commits which you want to squash. Save and close the file (`:wq` for `vim`). After closing new file will be opened containing the list of all commit messages(which you want to squash), now enter your message for single commit and save it.
 
-You can use `git log` to verify that commit are squashed. 
+You can use `git log` to verify that commit are squashed.
 
 **How to edit your commits messages?**
 
@@ -186,11 +186,8 @@ Replace `pick` with `drop` in the file opened above.
 
 **How to rearrange your commits?**
 
-Rearrange the commit lines in the file, which was opened by `git rebase -i copied-hash-code`. 
+Rearrange the commit lines in the file, which was opened by `git rebase -i copied-hash-code`.
 
 That's it, you can easily start `git` in your project with this commands. Get more info from [here](https://git-scm.com/).
 
-Have a nice day! 
-
-
-
+Have a nice day!
